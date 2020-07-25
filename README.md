@@ -1,4 +1,14 @@
-### Hi there 👋
+### My Latest Blog Posts
+
+| Date          | Title |
+|---------------|-------|
+| July 22, 2020 | [Tips & Tricks for running Strimzi with kubectl](https://strimzi.io/blog/2020/07/22/tips-and-tricks-for-running-strimzi-with-kubectl/) |
+| April 29, 2020 | [Consuming messages from closest replicas in Apache Kafka 2.4.0 and AMQ Streams](https://developers.redhat.com/blog/2020/04/29/consuming-messages-from-closest-replicas-in-apache-kafka-2-4-0-and-amq-streams/) |
+| April 15, 2020 | [Develop Apache Kafka applications with Strimzi and Minikube](https://strimzi.io/blog/2020/04/15/develop-apache-kafka-applications-with-strimzi-and-minikube/) |
+| February 14, 2020 | [Using secrets in Kafka Connect configuration](https://developers.redhat.com/blog/2020/02/14/using-secrets-in-apache-kafka-connect-configuration/) |
+| January 2, 2020 | [Using Strimzi with Amazon Network load balancers](https://strimzi.io/blog/2020/01/02/using-strimzi-with-amazon-nlb-loadbalancers/) |
+
+[-> All blog posts]()
 
 <!--
 **scholzj/scholzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
