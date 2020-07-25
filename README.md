@@ -8,7 +8,7 @@
 | February 14, 2020 | [Using secrets in Kafka Connect configuration](https://developers.redhat.com/blog/2020/02/14/using-secrets-in-apache-kafka-connect-configuration/) |
 | January 2, 2020 | [Using Strimzi with Amazon Network load balancers](https://strimzi.io/blog/2020/01/02/using-strimzi-with-amazon-nlb-loadbalancers/) |
 
-[All blog posts](https://github.com/scholzj/scholzj/blob/master/BLOG-POSTS.md)
+[**All blog posts**](https://github.com/scholzj/scholzj/blob/master/BLOG-POSTS.md)
 
 <!--
 **scholzj/scholzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
