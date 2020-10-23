@@ -1,4 +1,4 @@
-### My Latest Blog Posts
+### Latest Blog Posts
 
 | Date          | Title |
 |:--------------|:------|
@@ -10,17 +10,14 @@
 
 [**All blog posts**](https://github.com/scholzj/scholzj/blob/master/BLOG-POSTS.md)
 
-<!--
-**scholzj/scholzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Latest Videos and Talks
 
-Here are some ideas to get you started:
+| Date          | Title |
+|:--------------|:------|
+| October 17, 2020 | [Machine Learning processing pipeline on Kubernetes with Strimzi and Apache Kafka](https://youtu.be/CemgJcJMufI) |
+| September 26, 2020 | [Meetup: Stateful aplikace na Kubernetes pomocí operátor patternu (in Czech language)](https://youtu.be/_kU9QP-s_ls) |
+| September 5, 2020 | [Introduction to Strimzi: Apache Kafka on Kubernetes - Jakub Scholz & Paolo Patierno, Red Hat](https://youtu.be/GSh9aHvdZco) |
+| April 15, 2020 | [Develop Apache Kafka applications with Strimzi and Minikube](https://youtu.be/4bKSPrENDQQ) |
+| March 30, 2020 | [Supersonic Subatomic Apache Kafka - DevConf.CZ 2020](https://youtu.be/n5MaCgokpgE) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**All videos**](https://github.com/scholzj/scholzj/blob/master/VIDEOS.md)
