@@ -10,7 +10,7 @@
 
 [**All blog posts**](https://github.com/scholzj/scholzj/blob/master/BLOG-POSTS.md)
 
-### Latest Videos and Talks
+### Latest talks and videos
 
 | Date          | Title |
 |:--------------|:------|
@@ -20,4 +20,4 @@
 | April 15, 2020 | [Develop Apache Kafka applications with Strimzi and Minikube](https://youtu.be/4bKSPrENDQQ) |
 | March 30, 2020 | [Supersonic Subatomic Apache Kafka - DevConf.CZ 2020](https://youtu.be/n5MaCgokpgE) |
 
-[**All videos**](https://github.com/scholzj/scholzj/blob/master/VIDEOS.md)
+[**All talks and videos**](https://github.com/scholzj/scholzj/blob/master/VIDEOS.md)
