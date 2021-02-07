@@ -2,6 +2,7 @@
 
 | Date          | Title |
 |:--------------|:------|
+| January 13th, 2021 | [Kafka Connect Build: Declarative management of connector plugins in Kafka Connect](https://youtu.be/nEhksvkFMho) |
 | Video series | [Make your Kafka cluster production-ready](https://www.youtube.com/playlist?list=PLpI4X8PMthYeCSpy9a-mGtvDbMgqGNYNy) |
 | October 17, 2020 | [Machine Learning processing pipeline on Kubernetes with Strimzi and Apache Kafka](https://youtu.be/CemgJcJMufI) |
 | September 26, 2020 | [Meetup: Stateful aplikace na Kubernetes pomocí operátor patternu (in Czech language)](https://youtu.be/_kU9QP-s_ls) |
