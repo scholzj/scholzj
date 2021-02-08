@@ -1,3 +1,7 @@
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/scholzj)](https://twitter.com/scholzj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/scholzj/)](https://www.linkedin.com/in/scholzj/)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCiT1zgJHHLhd5X-SyiLd2dw)](https://www.youtube.com/channel/UCiT1zgJHHLhd5X-SyiLd2dw)
+
 ### Latest Blog Posts
 
 | Date          | Title |
