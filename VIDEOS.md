@@ -2,6 +2,7 @@
 
 | Date          | Title |
 |:--------------|:------|
+| May 6th, 2021 | [Strimzi - Adding Intelligence on Your Kafka on Kubernetes Deployment (Podcast)](https://engenhariadedadoscast.buzzsprout.com/1642711/8473159-strimzi-adding-intelligence-on-your-kafka-on-kubernetes-deployment-with-jakub-scholz) |
 | February 19th, 2021 | [Apache Kafka as a Monitoring Data Pipeline - DevConf.CZ 2021](https://youtu.be/BcpS_6yC1S0) |
 | January 13th, 2021 | [Kafka Connect Build: Declarative management of connector plugins in Kafka Connect](https://youtu.be/nEhksvkFMho) |
 | Video series | [Make your Kafka cluster production-ready](https://www.youtube.com/playlist?list=PLpI4X8PMthYeCSpy9a-mGtvDbMgqGNYNy) |
