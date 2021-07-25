@@ -6,11 +6,11 @@
 
 | Date          | Title |
 |:--------------|:------|
-| May 7, 202 | [Deploying Apache Kafka with Let's Encrypt certificates](https://strimzi.io/blog/2021/05/07/deploying-kafka-with-lets-encrypt-certificates/) |
+| July 22, 2021 | [Using Kubernetes Configuration Provider to load data from Secrets and Config Maps](https://strimzi.io/blog/2021/07/22/using-kubernetes-config-provider-to-load-data-from-secrets-and-config-maps/) |
+| May 7, 2021 | [Deploying Apache Kafka with Let's Encrypt certificates](https://strimzi.io/blog/2021/05/07/deploying-kafka-with-lets-encrypt-certificates/) |
 | Sep 1, 2020 | [Enforce Custom Resource policies with Open Policy Agent Gatekeeper](https://strimzi.io/blog/2020/09/01/enforce-custom-resource-policies-with-opa-gatekeeper/) |
 | Aug 5, 2020 | [Using Open Policy Agent with Strimzi and Apache Kafka](https://strimzi.io/blog/2020/08/05/using-open-policy-agent-with-strimzi-and-apache-kafka/) |
 | Jul 22, 2020 | [Tips & Tricks for running Strimzi with kubectl](https://strimzi.io/blog/2020/07/22/tips-and-tricks-for-running-strimzi-with-kubectl/) |
-| Apr 29, 2020 | [Consuming messages from closest replicas in Apache Kafka 2.4.0 and AMQ Streams](https://developers.redhat.com/blog/2020/04/29/consuming-messages-from-closest-replicas-in-apache-kafka-2-4-0-and-amq-streams/) |
 
 [**All blog posts**](https://github.com/scholzj/scholzj/blob/master/BLOG-POSTS.md)
 
