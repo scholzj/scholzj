@@ -2,6 +2,7 @@
 
 | Date          | Title |
 |:--------------|:------|
+| Oct 15th, 2021 | [What's new in Strimzi 0.26.0](https://youtu.be/886Nw_ECREQ) |
 | Sep 17th, 2021 | [Build your own social media analytics with Apache Kafka (DataCon LA 2021)](https://youtu.be/niQEglT_nYQ) |
 | Aug 11th, 2021 | [What's new in Strimzi 0.25.0](https://youtu.be/Ik1O7kRbtqA) |
 | May 12th, 2021 | [Everything you ever needed to know about Kafka on Kubernetes but were afraid to ask (Kafka Summit Europe 2021)](https://www.confluent.io/events/kafka-summit-europe-2021/everything-you-ever-needed-to-know-about-kafka-on-kubernetes-but-were-afraid/) |
