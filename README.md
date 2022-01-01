@@ -6,11 +6,11 @@
 
 | Date          | Title |
 |:--------------|:------|
-| Aug 19, 2021 | [Using HTTP Bridge as a Kubernetes sidecar](https://strimzi.io/blog/2021/08/18/using-http-bridge-as-a-kubernetes-sidecar/) |
-| July 29, 2021 | [How to contribute blog posts for Strimzi blog](https://strimzi.io/blog/2021/07/29/how-to-write-blog-posts-for-strimzi-blog/) |
-| July 22, 2021 | [Using Kubernetes Configuration Provider to load data from Secrets and Config Maps](https://strimzi.io/blog/2021/07/22/using-kubernetes-config-provider-to-load-data-from-secrets-and-config-maps/) |
-| May 7, 2021 | [Deploying Apache Kafka with Let's Encrypt certificates](https://strimzi.io/blog/2021/05/07/deploying-kafka-with-lets-encrypt-certificates/) |
-| Sep 1, 2020 | [Enforce Custom Resource policies with Open Policy Agent Gatekeeper](https://strimzi.io/blog/2020/09/01/enforce-custom-resource-policies-with-opa-gatekeeper/) |
+| Dec 14th, 2021 | [Strimzi and Log4Shell (Log4j2 CVE-2021-44228)](https://strimzi.io/blog/2021/12/14/strimzi-and-log4shell/) |
+| Aug 19th, 2021 | [Using HTTP Bridge as a Kubernetes sidecar](https://strimzi.io/blog/2021/08/18/using-http-bridge-as-a-kubernetes-sidecar/) |
+| July 29th, 2021 | [How to contribute blog posts for Strimzi blog](https://strimzi.io/blog/2021/07/29/how-to-write-blog-posts-for-strimzi-blog/) |
+| July 22th, 2021 | [Using Kubernetes Configuration Provider to load data from Secrets and Config Maps](https://strimzi.io/blog/2021/07/22/using-kubernetes-config-provider-to-load-data-from-secrets-and-config-maps/) |
+| May 7th, 2021 | [Deploying Apache Kafka with Let's Encrypt certificates](https://strimzi.io/blog/2021/05/07/deploying-kafka-with-lets-encrypt-certificates/) |
 
 [**All blog posts**](https://github.com/scholzj/scholzj/blob/master/BLOG-POSTS.md)
 
@@ -18,6 +18,7 @@
 
 | Date          | Title |
 |:--------------|:------|
+| Dec 24th, 2021 | [What's new in Strimzi 0.27.0](https://youtu.be/cdAz997VC_0) |
 | Oct 15th, 2021 | [What's new in Strimzi 0.26.0](https://youtu.be/886Nw_ECREQ) |
 | Sep 17th, 2021 | [Build your own social media analytics with Apache Kafka (DataCon LA 2021)](https://youtu.be/niQEglT_nYQ) |
 | Aug 11th, 2021 | [What's new in Strimzi 0.25.0](https://youtu.be/Ik1O7kRbtqA) |
