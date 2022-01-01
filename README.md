@@ -23,6 +23,5 @@
 | Sep 17th, 2021 | [Build your own social media analytics with Apache Kafka (DataCon LA 2021)](https://youtu.be/niQEglT_nYQ) |
 | Aug 11th, 2021 | [What's new in Strimzi 0.25.0](https://youtu.be/Ik1O7kRbtqA) |
 | May 12th, 2021 | [Everything you ever needed to know about Kafka on Kubernetes but were afraid to ask<br /> (Kafka Summit Europe 2021)](https://www.confluent.io/events/kafka-summit-europe-2021/everything-you-ever-needed-to-know-about-kafka-on-kubernetes-but-were-afraid/) |
-| May 6th, 2021 | [Strimzi - Adding Intelligence on Your Kafka on Kubernetes Deployment (Podcast)](https://engenhariadedadoscast.buzzsprout.com/1642711/8473159-strimzi-adding-intelligence-on-your-kafka-on-kubernetes-deployment-with-jakub-scholz) |
 
 [**All talks and videos**](https://github.com/scholzj/scholzj/blob/master/VIDEOS.md)
