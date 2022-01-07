@@ -16,12 +16,12 @@
 
 ### Latest talks and videos
 
-| Date          | Title |
-|:--------------|:------|
+| Date           | Title |
+|:---------------|:------|
+| Jan 5th, 2022  | [Make your Kafka cluster production ready: How many disks do I need?](https://youtu.be/7gaOUjkuR68) |
 | Dec 24th, 2021 | [What's new in Strimzi 0.27.0](https://youtu.be/cdAz997VC_0) |
 | Oct 15th, 2021 | [What's new in Strimzi 0.26.0](https://youtu.be/886Nw_ECREQ) |
 | Sep 17th, 2021 | [Build your own social media analytics with Apache Kafka (DataCon LA 2021)](https://youtu.be/niQEglT_nYQ) |
 | Aug 11th, 2021 | [What's new in Strimzi 0.25.0](https://youtu.be/Ik1O7kRbtqA) |
-| May 12th, 2021 | [Everything you ever needed to know about Kafka on Kubernetes but were afraid to ask<br /> (Kafka Summit Europe 2021)](https://www.confluent.io/events/kafka-summit-europe-2021/everything-you-ever-needed-to-know-about-kafka-on-kubernetes-but-were-afraid/) |
 
 [**All talks and videos**](https://github.com/scholzj/scholzj/blob/master/VIDEOS.md)
