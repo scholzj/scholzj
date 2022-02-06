@@ -18,10 +18,10 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Sep 17th, 2021 | [Build your own social media analytics with Apache Kafka (DevConf.CZ 2022)](https://youtu.be/bTxdZOWLyvI) |
 | Jan 5th, 2022  | [Make your Kafka cluster production ready: How many disks do I need?](https://youtu.be/7gaOUjkuR68) |
 | Dec 24th, 2021 | [What's new in Strimzi 0.27.0](https://youtu.be/cdAz997VC_0) |
 | Oct 15th, 2021 | [What's new in Strimzi 0.26.0](https://youtu.be/886Nw_ECREQ) |
-| Sep 17th, 2021 | [Build your own social media analytics with Apache Kafka (DataCon LA 2021)](https://youtu.be/niQEglT_nYQ) |
 | Aug 11th, 2021 | [What's new in Strimzi 0.25.0](https://youtu.be/Ik1O7kRbtqA) |
 
 [**All talks and videos**](https://github.com/scholzj/scholzj/blob/master/VIDEOS.md)
