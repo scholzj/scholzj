@@ -2,6 +2,9 @@
 
 | Date           | Title |
 |:---------------|:------|
+| May 26th, 2022 | [Road to KRaft: ZooKeeper-less Kafka in Strimzi 0.29.0](https://youtu.be/mT7dbLNCGtQ) |
+| May 23th, 2022 | [StrimziPodSets - What it is and why should you care?](https://youtu.be/iSwrn1Gumx4) |
+| May 20th, 2022 | [What's new in Strimzi 0.29.0](https://youtu.be/lUsIoFTZr00) |
 | May 16th, 2022 | [Build your own social media analytics with Apache Kafka (DoK Day @ KubeCon EU 2022](https://youtu.be/Rt6yAqeJnLY) |
 | Feb 15th, 2022 | [What's new in Strimzi 0.28.0](https://youtu.be/PZKbrDUU1zo) |
 | Jan 29th, 2022 | [Build your own social media analytics with Apache Kafka (DevConf.CZ 2022)](https://youtu.be/bTxdZOWLyvI) |
