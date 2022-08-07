@@ -2,6 +2,7 @@
 
 | Date          | Title |
 |:--------------|:------|
+| Aug 3rd, 2022 | [Strimzi-based Apache Kafka infrastructure as Java code](https://strimzi.io/blog/2022/08/03/stimzi-based-infrastructure-as-a-java-code/) |
 | Dec 14, 2021 | [Strimzi and Log4Shell (Log4j2 CVE-2021-44228)](https://strimzi.io/blog/2021/12/14/strimzi-and-log4shell/) |
 | Aug 19, 2021 | [Using HTTP Bridge as a Kubernetes sidecar](https://strimzi.io/blog/2021/08/18/using-http-bridge-as-a-kubernetes-sidecar/) |
 | July 29, 2021 | [How to contribute blog posts for Strimzi blog](https://strimzi.io/blog/2021/07/29/how-to-write-blog-posts-for-strimzi-blog/) |
