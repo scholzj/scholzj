@@ -6,11 +6,11 @@
 
 | Date          | Title |
 |:--------------|:------|
+| Aug 3rd, 2022 | [Strimzi-based Apache Kafka infrastructure as Java code](https://strimzi.io/blog/2022/08/03/stimzi-based-infrastructure-as-a-java-code/) |
 | Dec 14th, 2021 | [Strimzi and Log4Shell (Log4j2 CVE-2021-44228)](https://strimzi.io/blog/2021/12/14/strimzi-and-log4shell/) |
 | Aug 19th, 2021 | [Using HTTP Bridge as a Kubernetes sidecar](https://strimzi.io/blog/2021/08/18/using-http-bridge-as-a-kubernetes-sidecar/) |
 | July 29th, 2021 | [How to contribute blog posts for Strimzi blog](https://strimzi.io/blog/2021/07/29/how-to-write-blog-posts-for-strimzi-blog/) |
 | July 22th, 2021 | [Using Kubernetes Configuration Provider to load data from Secrets and Config Maps](https://strimzi.io/blog/2021/07/22/using-kubernetes-config-provider-to-load-data-from-secrets-and-config-maps/) |
-| May 7th, 2021 | [Deploying Apache Kafka with Let's Encrypt certificates](https://strimzi.io/blog/2021/05/07/deploying-kafka-with-lets-encrypt-certificates/) |
 
 [**All blog posts**](https://github.com/scholzj/scholzj/blob/master/BLOG-POSTS.md)
 
