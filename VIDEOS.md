@@ -2,6 +2,7 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Sep 8th, 2022 | [What's new in Strimzi 0.31.0](https://youtu.be/01dy70VlAgM) |
 | July 21th, 2022 | [What's new in Strimzi 0.30.0](https://youtu.be/8Le8nFbJBm8) |
 | June 23th, 2022 | [Build your own social media analytics with Apache Kafka (DoK Meetup)](https://youtu.be/0-iuTh8fSCM) |
 | May 26th, 2022 | [Road to KRaft: ZooKeeper-less Kafka in Strimzi 0.29.0](https://youtu.be/mT7dbLNCGtQ) |
