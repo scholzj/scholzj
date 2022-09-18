@@ -18,10 +18,10 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Sep 13th, 2022 | [Leader Election: Running Cluster Operator with multiple replicas](https://youtu.be/IuHyO-Bns88) |
 | Sep 8th, 2022 | [What's new in Strimzi 0.31.0](https://youtu.be/01dy70VlAgM) |
 | July 21th, 2022 | [What's new in Strimzi 0.30.0](https://youtu.be/8Le8nFbJBm8) |
 | June 23th, 2022 | [Build your own social media analytics with Apache Kafka (DoK Meetup)](https://youtu.be/0-iuTh8fSCM) |
 | May 26th, 2022 | [Road to KRaft: ZooKeeper-less Kafka in Strimzi 0.29.0](https://youtu.be/mT7dbLNCGtQ) |
-| May 23th, 2022 | [StrimziPodSets - What it is and why should you care?](https://youtu.be/iSwrn1Gumx4) |
 
 [**All talks and videos**](https://github.com/scholzj/scholzj/blob/master/VIDEOS.md)
