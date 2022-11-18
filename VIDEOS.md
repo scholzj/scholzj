@@ -2,6 +2,7 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Nov 3rd, 2022 | [What's new in Strimzi 0.32.0](https://youtu.be/q4TXUVePRJ8) |
 | Sep 13th, 2022 | [Leader Election: Running Cluster Operator with multiple replicas](https://youtu.be/IuHyO-Bns88) |
 | Sep 8th, 2022 | [What's new in Strimzi 0.31.0](https://youtu.be/01dy70VlAgM) |
 | July 21th, 2022 | [What's new in Strimzi 0.30.0](https://youtu.be/8Le8nFbJBm8) |
