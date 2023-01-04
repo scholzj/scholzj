@@ -18,7 +18,7 @@
 
 | Date           | Title |
 |:---------------|:------|
-| Dec 23th, 2022  | [Make your Kafka cluster production ready: Local Storage](https://youtu.be/RMJ6Ap88fpk) |
+| Dec 23th, 2022  | [Make your Kafka cluster production-ready: Local Storage](https://youtu.be/RMJ6Ap88fpk) |
 | Nov 3rd, 2022 | [What's new in Strimzi 0.32.0](https://youtu.be/q4TXUVePRJ8) |
 | Sep 13th, 2022 | [Leader Election: Running Cluster Operator with multiple replicas](https://youtu.be/IuHyO-Bns88) |
 | Sep 8th, 2022 | [What's new in Strimzi 0.31.0](https://youtu.be/01dy70VlAgM) |
