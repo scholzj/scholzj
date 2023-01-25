@@ -2,6 +2,8 @@
 
 | Date          | Title |
 |:--------------|:------|
+| Jan 25th, 2023 | [Auto-restarting connectors in Apache Kafka Connect and Mirror Maker 2](https://strimzi.io/blog/2023/01/25/auto-restarting-connectors/) |
+| Jan 25td, 2023 | [Running Apache Kafka on FIPS-enabled Kubernetes clusters](https://strimzi.io/blog/2023/01/25/running-apache-kafka-on-fips-enabled-kubernetes-cluster/) |
 | Sep 9th, 2022 | [Configuring security context of Strimzi-managed pods](https://strimzi.io/blog/2022/09/09/configuring-security-context-in-pods-managed-by-strimzi/) |
 | Aug 3rd, 2022 | [Strimzi-based Apache Kafka infrastructure as Java code](https://strimzi.io/blog/2022/08/03/stimzi-based-infrastructure-as-a-java-code/) |
 | Dec 14, 2021 | [Strimzi and Log4Shell (Log4j2 CVE-2021-44228)](https://strimzi.io/blog/2021/12/14/strimzi-and-log4shell/) |
