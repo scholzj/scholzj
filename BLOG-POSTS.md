@@ -2,7 +2,7 @@
 
 | Date          | Title |
 |:--------------|:------|
-| Apr 5th, 2023 | [Writing custom Pod Security Providers]([https://strimzi.io/blog/2023/01/25/auto-restarting-connectors/](https://strimzi.io/blog/2023/04/05/writing-custom-pod-security-providers/)) |
+| Apr 5th, 2023 | [Writing custom Pod Security Providers](https://strimzi.io/blog/2023/04/05/writing-custom-pod-security-providers/) |
 | Jan 25th, 2023 | [Auto-restarting connectors in Apache Kafka Connect and Mirror Maker 2](https://strimzi.io/blog/2023/01/25/auto-restarting-connectors/) |
 | Jan 25th, 2023 | [Running Apache Kafka on FIPS-enabled Kubernetes clusters](https://strimzi.io/blog/2023/01/25/running-apache-kafka-on-fips-enabled-kubernetes-cluster/) |
 | Sep 9th, 2022 | [Configuring security context of Strimzi-managed pods](https://strimzi.io/blog/2022/09/09/configuring-security-context-in-pods-managed-by-strimzi/) |
