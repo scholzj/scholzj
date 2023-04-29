@@ -6,11 +6,11 @@
 
 | Date          | Title |
 |:--------------|:------|
+| Apr 5th, 2023 | [Writing custom Pod Security Providers]([https://strimzi.io/blog/2023/01/25/auto-restarting-connectors/](https://strimzi.io/blog/2023/04/05/writing-custom-pod-security-providers/)) |
 | Jan 25th, 2023 | [Auto-restarting connectors in Apache Kafka Connect and Mirror Maker 2](https://strimzi.io/blog/2023/01/25/auto-restarting-connectors/) |
 | Jan 25th, 2023 | [Running Apache Kafka on FIPS-enabled Kubernetes clusters](https://strimzi.io/blog/2023/01/25/running-apache-kafka-on-fips-enabled-kubernetes-cluster/) |
 | Sep 9th, 2022 | [Configuring security context of Strimzi-managed pods](https://strimzi.io/blog/2022/09/09/configuring-security-context-in-pods-managed-by-strimzi/) |
 | Aug 3rd, 2022 | [Strimzi-based Apache Kafka infrastructure as Java code](https://strimzi.io/blog/2022/08/03/stimzi-based-infrastructure-as-a-java-code/) |
-| Dec 14th, 2021 | [Strimzi and Log4Shell (Log4j2 CVE-2021-44228)](https://strimzi.io/blog/2021/12/14/strimzi-and-log4shell/) |
 
 [**All blog posts**](https://github.com/scholzj/scholzj/blob/master/BLOG-POSTS.md)
 
