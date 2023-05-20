@@ -18,8 +18,8 @@
 
 | Date           | Title |
 |:---------------|:------|
+| May 15th, 2023 | [What's new in Strimzi 0.35.0](https://youtu.be/oKr-1ADbkF4) |
 | Mar 20th, 2023 | [What's new in Strimzi 0.34.0](https://youtu.be/DtOTzBv-foI) |
-| Jan 25th, 2023 | [What's new in Strimzi 0.33.0](https://youtu.be/CclPi4zp7Cs) |
 | Jan 19th, 2023  | [Make your Kafka cluster production-ready: Cluster Balancing](https://youtu.be/WPt8ScjK8wc) |
 | Dec 23th, 2022  | [Make your Kafka cluster production-ready: Local Storage](https://youtu.be/RMJ6Ap88fpk) |
 | Sep 13th, 2022 | [Leader Election: Running Cluster Operator with multiple replicas](https://youtu.be/IuHyO-Bns88) |
