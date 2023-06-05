@@ -18,7 +18,7 @@
 
 | Date           | Title |
 |:---------------|:------|
-| May 21st, 2023 | [Everything You Ever Needed to Know About Stateful Apps on Kubernetes](https://youtu.be/8IDfJTLQmeo) |
+| May 21st, 2023 | [Everything You Ever Needed to Know About Stateful Apps on Kubernetes (KCD Czech & Slovak 2023)](https://youtu.be/8IDfJTLQmeo) |
 | May 15th, 2023 | [What's new in Strimzi 0.35.0](https://youtu.be/oKr-1ADbkF4) |
 | Mar 20th, 2023 | [What's new in Strimzi 0.34.0](https://youtu.be/DtOTzBv-foI) |
 | Jan 19th, 2023  | [Make your Kafka cluster production-ready: Cluster Balancing](https://youtu.be/WPt8ScjK8wc) |
