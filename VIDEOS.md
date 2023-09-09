@@ -2,6 +2,7 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Sep 7th, 2023 | [What's new in Strimzi 0.37.0](https://youtu.be/wUpO_pfdARw) |
 | July 24th, 2023 | [What's new in Strimzi 0.36.0](https://youtu.be/sBXLpAHxrCo) |
 | June 18th, 2023 | [Ask for Help Like a Pro! (DevConf.CZ 2023)](https://youtu.be/EkjGUNELwlE) |
 | June 17th, 2023 | [Stream Processing at the Edge with Apache Kafka (DevConf.CZ 2023)](https://youtu.be/jn5gtYYk9-I) |
