@@ -18,10 +18,10 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Dec 21th, 2023 | [What's new in Strimzi 0.39.0](https://youtu.be/Ux3DF5onlL0) |
 | Nov 6th, 2023 | [Make Your Kafka Cluster Production-ready (DoK Day @ KubeCon NA)](https://youtu.be/l0iEJEOVqsg) |
 | Oct 17th, 2023 | [What's new in Strimzi 0.38.0](https://youtu.be/mH-avP6JS-g) |
 | June 18th, 2023 | [Ask for Help Like a Pro! (DevConf.CZ 2023)](https://youtu.be/EkjGUNELwlE) |
 | June 17th, 2023 | [Stream Processing at the Edge with Apache Kafka (DevConf.CZ 2023)](https://youtu.be/jn5gtYYk9-I) |
-| May 21st, 2023 | [Everything You Ever Needed to Know About Stateful Apps on Kubernetes (KCD Czech & Slovak 2023)](https://youtu.be/8IDfJTLQmeo) |
 
 [**All talks and videos**](https://github.com/scholzj/scholzj/blob/master/VIDEOS.md)
