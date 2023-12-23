@@ -2,6 +2,7 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Dec 21th, 2023 | [What's new in Strimzi 0.39.0](https://youtu.be/Ux3DF5onlL0) |
 | Nov 6th, 2023 | [Make Your Kafka Cluster Production-ready (DoK Day @ KubeCon NA)](https://youtu.be/l0iEJEOVqsg) |
 | Oct 17th, 2023 | [What's new in Strimzi 0.38.0](https://youtu.be/mH-avP6JS-g) |
 | Sep 7th, 2023 | [What's new in Strimzi 0.37.0](https://youtu.be/wUpO_pfdARw) |
