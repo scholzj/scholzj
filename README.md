@@ -14,7 +14,7 @@
 
 [**All blog posts**](https://github.com/scholzj/scholzj/blob/master/BLOG-POSTS.md)
 
-### Latest talks and videos
+### Latest conference talks and videos
 
 | Date           | Title |
 |:---------------|:------|
