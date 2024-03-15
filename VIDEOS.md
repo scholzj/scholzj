@@ -2,6 +2,7 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Mar 12th, 2024 | [What's new in Strimzi 0.40.0](https://youtu.be/AmK49DSCtXw) |
 | Dec 27th, 2023 | [Keksposé: Expose your Kafka outside your Minikube, Kind, or Docker Desktop Kubernetes clusters](https://youtu.be/EOpWH9gfKmU) |
 | Dec 21th, 2023 | [What's new in Strimzi 0.39.0](https://youtu.be/Ux3DF5onlL0) |
 | Nov 6th, 2023 | [Make Your Kafka Cluster Production-ready (DoK Day @ KubeCon NA)](https://youtu.be/l0iEJEOVqsg) |
