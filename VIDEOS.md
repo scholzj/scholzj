@@ -2,6 +2,8 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Mar 19th, 2024 | [Released From the Cage: Apache Kafka Without Its ZooKeeper (DoK Day @ KubeCon Europe 2024)](https://youtu.be/74fDjwigLms) |
+| Mar 19th, 2024 | [Strimzi: Toward a ZooKeeper-less Future (KubeCon Europe 2024)](https://youtu.be/_zpjMh8p02Y) |
 | Mar 12th, 2024 | [What's new in Strimzi 0.40.0](https://youtu.be/AmK49DSCtXw) |
 | Dec 27th, 2023 | [Keksposé: Expose your Kafka outside your Minikube, Kind, or Docker Desktop Kubernetes clusters](https://youtu.be/EOpWH9gfKmU) |
 | Dec 21th, 2023 | [What's new in Strimzi 0.39.0](https://youtu.be/Ux3DF5onlL0) |
