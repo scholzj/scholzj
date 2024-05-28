@@ -2,6 +2,7 @@
 
 | Date           | Title |
 |:---------------|:------|
+| May 22nd, 2024 | [Upgrade yourself to the Business Class (StrimziCon 2024)](https://youtu.be/5Ji4lFbnaYs) |
 | May 14th, 2024 | [What's new in Strimzi 0.41.0](https://youtu.be/3HmGC7V5GZY) |
 | Mar 19th, 2024 | [Released From the Cage: Apache Kafka Without Its ZooKeeper (DoK Day @ KubeCon Europe 2024)](https://youtu.be/74fDjwigLms) |
 | Mar 19th, 2024 | [Strimzi: Toward a ZooKeeper-less Future (KubeCon Europe 2024)](https://youtu.be/_zpjMh8p02Y) |
