@@ -18,10 +18,10 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Jun 15th, 2024 | [Released From the Cage: Apache Kafka Without Its ZooKeeper (DevConf.CZ 2024)](https://youtu.be/LjQ-l-Yea9g) |
+| Jun 7th, 2024  | [Growing out of StatefulSets (KCD Czech & Slovak 2024)](https://youtu.be/PiszQV9h-88) |
 | May 22nd, 2024 | [Upgrade yourself to the Business Class (StrimziCon 2024)](https://youtu.be/5Ji4lFbnaYs) |
 | May 14th, 2024 | [What's new in Strimzi 0.41.0](https://youtu.be/3HmGC7V5GZY) |
 | Mar 19th, 2024 | [Released From the Cage: Apache Kafka Without Its ZooKeeper (DoK Day @ KubeCon Europe 2024)](https://youtu.be/74fDjwigLms) |
-| Mar 19th, 2024 | [Strimzi: Toward a ZooKeeper-less Future (KubeCon Europe 2024)](https://youtu.be/_zpjMh8p02Y) |
-| Dec 27th, 2023 | [Keksposé: Expose your Kafka outside your Minikube, Kind, or Docker Desktop Kubernetes clusters](https://youtu.be/EOpWH9gfKmU) |
 
 [**All talks and videos**](https://github.com/scholzj/scholzj/blob/master/VIDEOS.md)
