@@ -6,11 +6,11 @@
 
 | Date          | Title |
 |:--------------|:------|
+| Aug 21st, 2023 | [Taming Apache Kafka 4.0](https://strimzi.io/blog/2024/08/21/taming-apache-kafka-4.0/) |
 | Dec 11th, 2023 | [Where is Strimzi 1.0.0?](https://strimzi.io/blog/2023/12/11/where-is-strimzi-1.0.0/) |
 | Aug 14th, 2023 | [Kafka Node Pools (blog post series)](https://strimzi.io/blog/2023/08/14/kafka-node-pools-introduction/) |
 | Apr 5th, 2023 | [Writing custom Pod Security Providers](https://strimzi.io/blog/2023/04/05/writing-custom-pod-security-providers/) |
 | Jan 25th, 2023 | [Auto-restarting connectors in Apache Kafka Connect and Mirror Maker 2](https://strimzi.io/blog/2023/01/25/auto-restarting-connectors/) |
-| Jan 25th, 2023 | [Running Apache Kafka on FIPS-enabled Kubernetes clusters](https://strimzi.io/blog/2023/01/25/running-apache-kafka-on-fips-enabled-kubernetes-cluster/) |
 
 [**All blog posts**](https://github.com/scholzj/scholzj/blob/master/BLOG-POSTS.md)
 
@@ -18,7 +18,7 @@
 
 | Date           | Title |
 |:---------------|:------|
-| Jul 10th, 2024 | [What's new in Strimzi 0.42.0](https://youtu.be/RWza9Zzmkms) |
+| Aug 23rd, 2024 | [What's new in Strimzi 0.43.0](https://youtu.be/Zji6u0NoOGM) |
 | Jun 15th, 2024 | [Released From the Cage: Apache Kafka Without Its ZooKeeper (DevConf.CZ 2024)](https://youtu.be/LjQ-l-Yea9g) |
 | Jun 7th, 2024  | [Growing out of StatefulSets (KCD Czech & Slovak 2024)](https://youtu.be/PiszQV9h-88) |
 | May 22nd, 2024 | [Upgrade yourself to the Business Class (StrimziCon 2024)](https://youtu.be/5Ji4lFbnaYs) |
