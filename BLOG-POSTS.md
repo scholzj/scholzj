@@ -2,6 +2,7 @@
 
 | Date          | Title |
 |:--------------|:------|
+| Aug 21st, 2023 | [Taming Apache Kafka 4.0](https://strimzi.io/blog/2024/08/21/taming-apache-kafka-4.0/) |
 | Dec 11th, 2023 | [Where is Strimzi 1.0.0?](https://strimzi.io/blog/2023/12/11/where-is-strimzi-1.0.0/) |
 | Aug 14th, 2023 | [Kafka Node Pools (blog post series)](https://strimzi.io/blog/2023/08/14/kafka-node-pools-introduction/) |
 | Apr 5th, 2023 | [Writing custom Pod Security Providers](https://strimzi.io/blog/2023/04/05/writing-custom-pod-security-providers/) |
