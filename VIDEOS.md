@@ -2,6 +2,7 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Oct 30th, 2024 | [What's new in Strimzi 0.44.0](https://youtu.be/TLYyJCdsrKA) |
 | Sep 24th, 2024 | [Preview: Autoscaling Apache Kafka with Strimzi](https://youtu.be/b8JZpom-67I) |
 | Aug 23rd, 2024 | [What's new in Strimzi 0.43.0](https://youtu.be/Zji6u0NoOGM) |
 | Jul 10th, 2024 | [What's new in Strimzi 0.42.0](https://youtu.be/RWza9Zzmkms) |
