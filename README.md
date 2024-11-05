@@ -18,8 +18,8 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Oct 30th, 2024 | [What's new in Strimzi 0.44.0](https://youtu.be/TLYyJCdsrKA) |
 | Sep 24th, 2024 | [Preview: Autoscaling Apache Kafka with Strimzi](https://youtu.be/b8JZpom-67I) |
-| Aug 23rd, 2024 | [What's new in Strimzi 0.43.0](https://youtu.be/Zji6u0NoOGM) |
 | Jun 15th, 2024 | [Released From the Cage: Apache Kafka Without Its ZooKeeper (DevConf.CZ 2024)](https://youtu.be/LjQ-l-Yea9g) |
 | Jun 7th, 2024  | [Growing out of StatefulSets (KCD Czech & Slovak 2024)](https://youtu.be/PiszQV9h-88) |
 | May 22nd, 2024 | [Upgrade yourself to the Business Class (StrimziCon 2024)](https://youtu.be/5Ji4lFbnaYs) |
