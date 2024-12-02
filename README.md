@@ -18,10 +18,10 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Nov 15th, 2024 | [Strimzi: Data Streaming on Kubernetes with Apache Kafka (KubeCon NA 2024)](https://youtu.be/q6WYs8AEEDk) |
+| Nov 14th, 2024 | [Elastic Data Streaming: Autoscaling Apache Kafka (KubeCon NA 2024)](https://youtu.be/pj6eLTC2tv8) |
+| Nov 12th, 2024 | [Strimzi: Strimzi and the Future of Apache Kafka on Kubernetes (KubeCon NA 2024)](https://youtu.be/h8tq6kGhoR8) |
 | Oct 30th, 2024 | [What's new in Strimzi 0.44.0](https://youtu.be/TLYyJCdsrKA) |
 | Oct 8th, 2024  | [KRaft: Apache Kafka without its ZooKeeper (Axual Kafka Meetup Utrecht)](https://youtu.be/bM7YhKpSkBQ) |
-| Sep 24th, 2024 | [Preview: Autoscaling Apache Kafka with Strimzi](https://youtu.be/b8JZpom-67I) |
-| Jun 15th, 2024 | [Released From the Cage: Apache Kafka Without Its ZooKeeper (DevConf.CZ 2024)](https://youtu.be/LjQ-l-Yea9g) |
-| Jun 7th, 2024  | [Growing out of StatefulSets (KCD Czech & Slovak 2024)](https://youtu.be/PiszQV9h-88) |
 
 [**All talks and videos**](https://github.com/scholzj/scholzj/blob/master/VIDEOS.md)
