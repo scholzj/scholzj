@@ -2,6 +2,7 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Jan 9th, 2025 | [Data Streaming on Kubernetes with Apache Kafka and Strimzi (DoK Meetup)](https://youtube.com/live/1yAaCgesHVA) |
 | Nov 15th, 2024 | [Strimzi: Data Streaming on Kubernetes with Apache Kafka (KubeCon NA 2024)](https://youtu.be/q6WYs8AEEDk) |
 | Nov 14th, 2024 | [Elastic Data Streaming: Autoscaling Apache Kafka (KubeCon NA 2024)](https://youtu.be/pj6eLTC2tv8) |
 | Nov 12th, 2024 | [Strimzi: Strimzi and the Future of Apache Kafka on Kubernetes (KubeCon NA 2024)](https://youtu.be/h8tq6kGhoR8) |
