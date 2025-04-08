@@ -37,9 +37,13 @@ The main container then includes the JARs in its classpath and uses them.
 However, this requires modifying the Pod definition to add the volume and init container, which isn't always straightforward.
 For example, Strimzi doesn't currently support custom init containers, so you'd need an admission controller to inject them.
 
+![Using empty dir volume with init container](./assets/java-pluggability-kubernetes-and-image-volumes-emptydir.png)
+
 Alternatively, you could prepare the plugins in a shared volume (e.g. NFS) and mount it directly into the Pod.
 This avoids the need for an init container but requires infrastructure that supports shared volumes.
 Shared volumes also introduce other challenges like managing plugin version updates.
+
+![Using shared NFS volume](./assets/java-pluggability-kubernetes-and-image-volumes-nfs.png)
 
 Both options also suffer from another problem - they break the immutability of the containers.
 It is easy to loose track of what software are you actually running in your environment.
@@ -71,8 +75,8 @@ Your new container image will consist of two components:
 * And a new layer containing your plugin JARs.
 
 This impacts handling of CVEs or upgrades.
-
 Let’s examine how different CVE scenarios might be addressed:
+
 1. **CVEs in your plugins**
 
    If a vulnerability is identified in your plugin JARs, you will need to update them, build a new version of your container image, and modify the Strimzi custom resources to roll out the updated image.
@@ -111,6 +115,8 @@ Strimzi simplifies this process for Kafka Connect plugins with its [Kafka Connec
 Users specify plugins they want to use in the `KafkaConnect` custom resource as URLs or Maven coordinates.
 Strimzi then generates a Dockerfile, builds the image, pushes it to a registry, and deploys it.
 
+![Strimzi's Kafka Connect Build feature](./assets/java-pluggability-kubernetes-and-image-volumes-build.png)
+
 This approach combines the advantages of container immutability with the flexibility to add plugins automatically.
 When changes occur — such as a version upgrade, a plugin update, or an updated base container image digest due to a CVE fix — Strimzi will automatically rebuild the image and roll it out to the Connect cluster.
 This means you no longer need to manage the process of building and deploying container images yourself.
@@ -137,6 +143,8 @@ However, Strimzi doesn’t reuse the container image it built on Friday and whic
 Instead, it builds a brand-new container image and rolls it out to production.
 This introduces potential risks.
 For example, the base image might have been updated with a CVE fix that inadvertently breaks compatibility.
+
+![Strimzi's Kafka Connect Build feature in different environments](./assets/java-pluggability-kubernetes-and-image-volumes-build-environments.png)
 
 Although the container images are immutable within this mechanism, they may differ between environments due to these factors.
 While most of the time everything works as expected, there’s always a chance of encountering issues because of these discrepancies.
