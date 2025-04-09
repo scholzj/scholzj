@@ -6,11 +6,11 @@
 
 | Date          | Title |
 |:--------------|:------|
+| Apr 9th, 2025 | [Java, Pluggability, Kubernetes, and Image Volumes](./blog-posts/java-pluggability-kubernetes-and-image-volumes.md) |
 | Aug 21st, 2024 | [Taming Apache Kafka 4.0](https://strimzi.io/blog/2024/08/21/taming-apache-kafka-4.0/) |
 | Dec 11th, 2023 | [Where is Strimzi 1.0.0?](https://strimzi.io/blog/2023/12/11/where-is-strimzi-1.0.0/) |
 | Aug 14th, 2023 | [Kafka Node Pools (blog post series)](https://strimzi.io/blog/2023/08/14/kafka-node-pools-introduction/) |
 | Apr 5th, 2023 | [Writing custom Pod Security Providers](https://strimzi.io/blog/2023/04/05/writing-custom-pod-security-providers/) |
-| Jan 25th, 2023 | [Auto-restarting connectors in Apache Kafka Connect and Mirror Maker 2](https://strimzi.io/blog/2023/01/25/auto-restarting-connectors/) |
 
 [**All blog posts**](https://github.com/scholzj/scholzj/blob/master/BLOG-POSTS.md)
 
