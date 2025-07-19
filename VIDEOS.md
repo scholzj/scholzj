@@ -2,6 +2,7 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Jul 15th, 2025 | [What's new in Strimzi 0.47.0 (AI voice-over)](https://youtu.be/uxYkznM6m4c) |
 | May 20th, 2025 | [Autoscaling Apache Kafka brokers on Kubernetes with Strimzi (Current London 2025)](https://current.confluent.io/post-conference-videos-2025/autoscaling-apache-kafka-brokers-on-kubernetes-with-strimzi-lnd25) |
 | Jan 9th, 2025 | [Data Streaming on Kubernetes with Apache Kafka and Strimzi (DoK Meetup)](https://youtube.com/live/1yAaCgesHVA) |
 | Nov 15th, 2024 | [Strimzi: Data Streaming on Kubernetes with Apache Kafka (KubeCon NA 2024)](https://youtu.be/q6WYs8AEEDk) |
