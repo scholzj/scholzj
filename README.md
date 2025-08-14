@@ -6,11 +6,11 @@
 
 | Date          | Title |
 |:--------------|:------|
+| Aug 14th, 2025 | [How do you get Strimzi container images?](https://strimzi.io/blog/2025/08/14/how-do-you-get-strimzi-container-images/) |
 | Apr 22nd, 2025 | [The various tiers of Apache Kafka Tiered Storage](https://strimzi.io/blog/2025/04/22/tha-various-tiers-of-apache-kafka-tiered-storage/) |
 | Apr 9th, 2025 | [Java, Pluggability, Kubernetes, and Image Volumes](./blog-posts/java-pluggability-kubernetes-and-image-volumes.md) |
 | Aug 21st, 2024 | [Taming Apache Kafka 4.0](https://strimzi.io/blog/2024/08/21/taming-apache-kafka-4.0/) |
 | Dec 11th, 2023 | [Where is Strimzi 1.0.0?](https://strimzi.io/blog/2023/12/11/where-is-strimzi-1.0.0/) |
-| Aug 14th, 2023 | [Kafka Node Pools (blog post series)](https://strimzi.io/blog/2023/08/14/kafka-node-pools-introduction/) |
 
 [**All blog posts**](https://github.com/scholzj/scholzj/blob/master/BLOG-POSTS.md)
 
