@@ -2,6 +2,7 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Oct 24th, 2025 | [Sneak Peek: Strimzi 0.49.0, 1.0.0, and the `v1` CRD API](https://youtube.com/playlist?list=PLvGruFjS4ecWpN5YAmlAh0jDXI9KqL25Y&si=kW5Kn_iDGm38OBOx) |
 | Jul 15th, 2025 | [What's new in Strimzi 0.47.0 (AI voice-over)](https://youtu.be/uxYkznM6m4c) |
 | May 20th, 2025 | [Autoscaling Apache Kafka brokers on Kubernetes with Strimzi (Current London 2025)](https://current.confluent.io/post-conference-videos-2025/autoscaling-apache-kafka-brokers-on-kubernetes-with-strimzi-lnd25) |
 | Jan 9th, 2025 | [Data Streaming on Kubernetes with Apache Kafka and Strimzi (DoK Meetup)](https://youtube.com/live/1yAaCgesHVA) |
