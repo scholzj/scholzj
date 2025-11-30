@@ -18,10 +18,10 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Nov 21st, 2025 | [What's new in Strimzi 0.49.0](https://youtu.be/aIGZD8lk6vc) |
+| Nov 10th, 2025 | [The Cost of Apache Kafka (KubeCon NA 2025, with Rajith Attapattu)](https://youtu.be/8f7kBANJQLU) |
 | Oct 24th, 2025 | [Sneak Peek: Strimzi 0.49.0, 1.0.0, and the `v1` CRD API](https://youtube.com/playlist?list=PLvGruFjS4ecWpN5YAmlAh0jDXI9KqL25Y&si=kW5Kn_iDGm38OBOx) |
 | Jul 15th, 2025 | [What's new in Strimzi 0.47.0 (AI voice-over)](https://youtu.be/uxYkznM6m4c) |
 | May 20th, 2025 | [Autoscaling Apache Kafka brokers on Kubernetes with Strimzi (Current London 2025)](https://current.confluent.io/post-conference-videos-2025/autoscaling-apache-kafka-brokers-on-kubernetes-with-strimzi-lnd25) |
-| Jan 9th, 2025  | [Data Streaming on Kubernetes with Apache Kafka and Strimzi (DoK Meetup)](https://youtube.com/live/1yAaCgesHVA) |
-| Nov 14th, 2024 | [Elastic Data Streaming: Autoscaling Apache Kafka (KubeCon NA 2024)](https://youtu.be/pj6eLTC2tv8) |
 
 [**All talks and videos**](https://github.com/scholzj/scholzj/blob/master/VIDEOS.md)
