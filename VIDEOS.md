@@ -2,6 +2,7 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Jan 18th, 2026 | [What's new in Strimzi 0.50.0](https://youtu.be/BPNt4Z7g3p4) |
 | Nov 21st, 2025 | [What's new in Strimzi 0.49.0](https://youtu.be/aIGZD8lk6vc) |
 | Nov 10th, 2025 | [The Cost of Apache Kafka (KubeCon NA 2025, with Rajith Attapattu)](https://youtu.be/8f7kBANJQLU) |
 | Oct 24th, 2025 | [Sneak Peek: Strimzi 0.49.0, 1.0.0, and the `v1` CRD API](https://youtube.com/playlist?list=PLvGruFjS4ecWpN5YAmlAh0jDXI9KqL25Y&si=kW5Kn_iDGm38OBOx) |
