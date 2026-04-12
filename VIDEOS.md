@@ -3,6 +3,7 @@
 | Date           | Title |
 |:---------------|:------|
 | Mar 25th, 2026 | [The Road To Strimzi 1.0](http://youtube.com/watch?v=1BtVSQ0t-CU) |
+| Mar 6th, 2026  | [What's new in Strimzi 0.51.0](https://youtu.be/qHYpOhZACzY) |
 | Jan 18th, 2026 | [What's new in Strimzi 0.50.0](https://youtu.be/BPNt4Z7g3p4) |
 | Nov 21st, 2025 | [What's new in Strimzi 0.49.0](https://youtu.be/aIGZD8lk6vc) |
 | Nov 10th, 2025 | [The Cost of Apache Kafka (KubeCon NA 2025, with Rajith Attapattu)](https://youtu.be/8f7kBANJQLU) |
