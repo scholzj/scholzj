@@ -2,6 +2,7 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Apr 28th, 2026 | [What's new in Strimzi 1.0.0](https://youtu.be/-Zp9azOgFfQ) |
 | Mar 25th, 2026 | [The Road To Strimzi 1.0](http://youtube.com/watch?v=1BtVSQ0t-CU) |
 | Mar 6th, 2026  | [What's new in Strimzi 0.51.0](https://youtu.be/qHYpOhZACzY) |
 | Jan 18th, 2026 | [What's new in Strimzi 0.50.0](https://youtu.be/BPNt4Z7g3p4) |
