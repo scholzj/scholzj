@@ -2,6 +2,7 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Aug 20th, 2026 | [What's new in Strimzi 1.2.0](https://youtu.be/d1X-KB4hxGM) |
 | Jun 3rd, 2026 | [Beyond the Install: Take full ownership of your Strimzi cluster (StrimziCon 2026)](https://youtu.be/0MOxDjfqQuM) |
 | May 22nd, 2026 | [Stop Restarting Your Pods: Expectation vs. Reality of In Place CPU and Memory Resizing (KCD Czech & Slovak 2026)](https://youtu.be/got9uwyDUA4) |
 | Apr 28th, 2026 | [What's new in Strimzi 1.0.0](https://youtu.be/-Zp9azOgFfQ) |
