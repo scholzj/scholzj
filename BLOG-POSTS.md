@@ -2,6 +2,7 @@
 
 | Date          | Title |
 |:--------------|:------|
+| Sep 22nd, 2026 | [Beyond mTLS: Configurable Security for Internal Apache Kafka Cluster Communication](https://strimzi.io/blog/2026/09/22/beyond-mtls-configurable-security-for-internal-apache-kafka-cluster-communication/) |
 | Aug 14th, 2025 | [How do you get Strimzi container images?](https://strimzi.io/blog/2025/08/14/how-do-you-get-strimzi-container-images/) |
 | Apr 22nd, 2025 | [The various tiers of Apache Kafka Tiered Storage](https://strimzi.io/blog/2025/04/22/tha-various-tiers-of-apache-kafka-tiered-storage/) |
 | Apr 9th, 2025 | [Java, Pluggability, Kubernetes, and Image Volumes](./blog-posts/java-pluggability-kubernetes-and-image-volumes.md) |
