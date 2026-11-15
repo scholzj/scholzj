@@ -6,6 +6,7 @@
 
 | Date          | Title |
 |:--------------|:------|
+| Sep 22nd, 2026 | [Beyond mTLS: Configurable Security for Internal Apache Kafka Cluster Communication](https://strimzi.io/blog/2026/09/22/beyond-mtls-configurable-security-for-internal-apache-kafka-cluster-communication/) |
 | Aug 14th, 2025 | [How do you get Strimzi container images?](https://strimzi.io/blog/2025/08/14/how-do-you-get-strimzi-container-images/) |
 | Apr 22nd, 2025 | [The various tiers of Apache Kafka Tiered Storage](https://strimzi.io/blog/2025/04/22/tha-various-tiers-of-apache-kafka-tiered-storage/) |
 | Apr 9th, 2025 | [Java, Pluggability, Kubernetes, and Image Volumes](./blog-posts/java-pluggability-kubernetes-and-image-volumes.md) |
@@ -18,7 +19,7 @@
 
 | Date           | Title |
 |:---------------|:------|
-| Aug 20th, 2026 | [Ask for Help Like a Pro! (Open Source Summit Europe 2026)](https://youtu.be/RguwrDPMOxE) |
+| Oct 8th, 2026 | [Ask for Help Like a Pro! (Open Source Summit Europe 2026)](https://youtu.be/RguwrDPMOxE) |
 | Aug 20th, 2026 | [What's new in Strimzi 1.2.0](https://youtu.be/d1X-KB4hxGM) |
 | Jun 3rd, 2026 | [Beyond the Install: Take full ownership of your Strimzi cluster (StrimziCon 2026)](https://youtu.be/0MOxDjfqQuM) |
 | May 22nd, 2026 | [Stop Restarting Your Pods: Expectation vs. Reality of In Place CPU and Memory Resizing (KCD Czech & Slovak 2026)](https://youtu.be/got9uwyDUA4) |
