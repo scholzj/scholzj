@@ -2,6 +2,7 @@
 
 | Date           | Title |
 |:---------------|:------|
+| Nov 12th, 2026 | [Life After Strimzi 1.0.0 (KubeCon NA 2026)](https://www.youtube.com/watch?v=FMS86GLWYQA) |
 | Oct 8th, 2026 | [Ask for Help Like a Pro! (Open Source Summit Europe 2026)](https://youtu.be/RguwrDPMOxE) |
 | Aug 20th, 2026 | [What's new in Strimzi 1.2.0](https://youtu.be/d1X-KB4hxGM) |
 | Jun 3rd, 2026 | [Beyond the Install: Take full ownership of your Strimzi cluster (StrimziCon 2026)](https://youtu.be/0MOxDjfqQuM) |
